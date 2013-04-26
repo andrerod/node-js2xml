@@ -1,0 +1,4 @@
+# Node #
+test/recordings/
+node_modules/
+npm-debug.log
