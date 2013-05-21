@@ -2,7 +2,7 @@
   "name": "node-js2xml",
   "author": "Microsoft Corporation",
   "contributors": [ "Andre Rodrigues <andrerod@microsoft.com>" ],
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Javascript to XML converter",
   "tags" : ["javascript", "json", "xml"],
   "main": "./lib/js2xml.js",
